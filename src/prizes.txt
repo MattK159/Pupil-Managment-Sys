@@ -1,0 +1,5 @@
+2,1,250,Cash Prize
+3,2,500,Cash Prize
+4,3,Spain,Holiday
+4,4,1000,Cash Prize
+5,5,2000,Cash Prize
